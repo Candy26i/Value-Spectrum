@@ -1,7 +1,8 @@
 site_name: Value-Spectrum
 theme:
-  name: readthedocs
+  name: windmill
   highlightjs: true
+
 plugins:
   - search
   - mkdocstrings:

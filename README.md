@@ -1,10 +1,11 @@
-Example: Basic MkDocs project for Read the Docs
+Value-Spectrum
 ===============================================
 
-[![Documentation Status](https://readthedocs.org/projects/example-mkdocs-basic/badge/?version=latest)](https://example-mkdocs-basic.readthedocs.io/en/latest/?badge=latest)
+[![Website](https://img.shields.io/website?url=https://value-spectrum.readthedocs.io)](https://value-spectrum.readthedocs.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/yizhouzhao/LLM4SocialMedia)
 
 
-HIHIHI I am CANDY duhasiduhasiduhiasdh![10 Shwatz values](Pics/big.png)
+HIHIHI I am CANDY duhasiduhasiduhiasdh![10 Shwatz values](big.png)
 This example shows a basic MkDocs project with Read the Docs. You're encouraged to view it to get inspiration and copy & paste from the files in the source code. If you are using Read the Docs for the first time, have a look at the official [Read the Docs Tutorial](https://docs.readthedocs.io/en/stable/tutorial/index.html).
 
 📚 [docs/](https://github.com/readthedocs-examples/example-mkdocs-basic/blob/main/docs/)<br>
