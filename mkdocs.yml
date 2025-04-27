@@ -1,6 +1,6 @@
-site_name: Basic MkDocs Example Project
+site_name: Value-Spectrum
 theme:
-  name: readthedocs
+  name: material
   highlightjs: true
 plugins:
   - search
