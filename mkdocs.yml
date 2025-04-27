@@ -2,7 +2,6 @@ site_name: Value-Spectrum
 theme:
   name: windmill
   highlightjs: true
-
 plugins:
   - search
   - mkdocstrings:
