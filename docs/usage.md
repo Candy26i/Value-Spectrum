@@ -1,14 +1,14 @@
 Usage
 =====
 
-Installation
+Plain_
 ------------
-HIHIHI china
-To use Lumache, first install it using pip:
+Make sure you have finished everything in the Setting up section
 
-```console
-(.venv) $ pip install lumache
-```
+
+
+
+
 
 Creating recipes
 ----------------
