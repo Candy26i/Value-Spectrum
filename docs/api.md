@@ -27,13 +27,13 @@ conda env create -f environment.yml
 Set your own configurations
 -------------------
 
-Based on different resolution, you need to set your own coordinate of screenshot being taken.
-- navigate into main.py
+Based on different resolutions, you need to set your own coordinates for the screenshot to be taken.
+- Navigate to main.py
 
 ```bash
 manual_coordinate_adjustment(TikTok())
 ```
-This function prints out the current x and y coordinate of your mouse, move your mouse around and put them in the poisiytion of the top left coordinate and right bottom, entry point, record them down.
+This function prints out the current x and y coordinates of your mouse. Move your mouse around and put them in the position of the top left coordinate and bottom right, entry point, and record them down.
 
 
 Input the xy coordinate into Codes/config.py, and put in your own coordinates
@@ -50,7 +50,7 @@ TIKTOK_CONFIG = {
 ```
 ![Configuration demo](config_illu.png)
 
-Do this for all the platforms: Youtube, TikTok, Instagram that you want to investigate.
+Do this for all the platforms: YouTube, TikTok, and Instagram that you want to investigate.
 
 Get your own APIs
 ---------------
